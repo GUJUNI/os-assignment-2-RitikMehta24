@@ -27,25 +27,3 @@ case $choice in
         *) echo "Invalid choice" ;;
 esac
 
-
-OUTPUT : 
-enter your choice
-1 : add
-2 : sub
-3 : div
-4 : mul
-5 : exit
-1
-Enter the value of number 1
-10
-enter the valiue of number 2
-15
-addition
-ans = 25
-enter your choice
-1 : add
-2 : sub
-3 : div
-4 : mul
-5 : exit
-5
