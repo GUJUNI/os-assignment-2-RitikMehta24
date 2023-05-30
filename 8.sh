@@ -42,33 +42,3 @@ while true;
         esac
 done
 
-
-OUTPUT : 
-1) Area of rectangle
-2) Area of triangle  
-3) Area of circle
-4) ExitRT --                                                                                    
-Enter your choice : 1                                                                             
-Length : 15-                                                                                         
-Breadth : 23
-Area of rectangle = 345
-1) Area of rectangle
-2) Area of triangle
-3) Area of circle
-4) Exit
-Enter your choice : 2
-Base : 23
-Height : 34
-Area of circle = 391
-1) Area of rectangle
-2) Area of triangle
-3) Area of circle
-4) Exit
-Enter your choice : 3
-Radius : 32
-Area of circle = 3072
-1) Area of rectangle
-2) Area of triangle
-3) Area of circle
-4) Exit
-Enter your choice : 4
