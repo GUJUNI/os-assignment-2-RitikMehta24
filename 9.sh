@@ -26,8 +26,3 @@ else
         echo "Good Night"
 fi
 
-
-OUTPUT : 
-
-Current time : 21:02
-Good Night
