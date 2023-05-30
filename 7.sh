@@ -21,8 +21,3 @@ done
 
 echo "Reversed number : $rev"
 
-
-OUTPUT : 
-
-Enter a six-digit number: 123456
-Reversed number: 654321
